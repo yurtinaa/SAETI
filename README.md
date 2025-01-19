@@ -5,7 +5,8 @@ use of autoencoders and a time series of behavioral patterns (snippets). SAETI i
 ## Acknowledgement 
 This work was financially supported by the Russian Science Foundation (grant no. 23-21-00465). The research is carried out using the supercomputer resources of South Ural State University (Chelyabinsk, Russia)
 
-##Citation
+## Citation
+```
 @article{SAETI24CMSE:TR,
   title={Imputation of Multivariate Time Series Based on the Behavioral Patterns and Autoencoders},
   author={Yurtin, A A},
