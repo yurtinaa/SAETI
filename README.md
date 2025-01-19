@@ -7,7 +7,7 @@ This work was financially supported by the Russian Science Foundation (grant no.
 
 ## Citation
 ```
-@article{SAETI24CMSE:TR,
+@article{SAETI24CMSE,
   title={Imputation of Multivariate Time Series Based on the Behavioral Patterns and Autoencoders},
   author={Yurtin, A A},
   journal={Bulletin of the South Ural State University. Series: Computational Mathematics and Software Engineering},
